@@ -1,4 +1,4 @@
-#REGRAS GERAIS
+# REGRAS GERAIS
 
 - O projeto deve ser feito em Java e/ou Kotlin
 - Você pode usar quaisquer bibliotecas de terceiros
@@ -27,5 +27,5 @@ Seria desejável(não obrigatório)
 - Testes unitários
 - Testes de interface
 
-#IMPORTANTE
+# IMPORTANTE
 Caso utilize o mecanismo try/catch NÃO deixe o bloco catch vazio
